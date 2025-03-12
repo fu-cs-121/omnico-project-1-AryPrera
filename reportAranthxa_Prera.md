@@ -1,7 +1,7 @@
 # Euphoria User Engagement Analysis Report
 
-**Author:** [Your Name]  
-**Date:** [Submission Date]
+**Author:** [Aranthxa Prera]  
+**Date:** [March 13th]
 
 ---
 
